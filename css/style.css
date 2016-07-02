@@ -5,9 +5,8 @@
  */
  
 
-.container {
+.row.ender {
     background: url('../media/background.jpg') no-repeat center center;
-    background-size: 100% auto;
 }
 
 body {
