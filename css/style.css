@@ -7,6 +7,9 @@
 .row.ender {
     background: url('../media/background.jpg') no-repeat center center;
 }
+.franklin .col-sm-4 {
+    text-align: center;
+}
 
 body {
     font-family: 'Montserrat', sans-serif;
