@@ -7,7 +7,7 @@
 .row.ender {
     background: url('../media/background.jpg') no-repeat center center;
 }
-.franklin .col-sm-4 {
+.franklin .col-sm-4, .dawin .col-sm-12 {
     text-align: center;
 }
 
