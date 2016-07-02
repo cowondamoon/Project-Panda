@@ -135,6 +135,9 @@ footer p {
         line-height: normal;
         color: #fff;
     }
+    .brand span {
+        color: #41e000;
+    }
 
     .top-divider {
         margin-top: 0;
