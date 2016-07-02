@@ -9,6 +9,9 @@
     background: #fff;
     background: rgba(255,255,255,0.7);
  }
+ .jumbotron span {
+    color: #49FC00;
+}
 
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
